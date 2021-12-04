@@ -4,8 +4,8 @@ Build data visualizations using JavaScript and D3 and Leaflet libraries to map G
 ## Overview of Project
 The purpose of this analysis is to help Basil, the head of the earthquake disaster response team for the Disaster Reporting Network, create informative and easy to use earthquake maps to bring in users to the Disaster Reporting Network. The map Basil wants created will show the difference in the magnitudes of earthquakes that have occurred in the past 7 days across the globe.
 
-### Process
-#### Initial Map
+## Process
+### Initial Map
 - First, use the Mapbox API to pull background maps to map the earthquake data onto.
 - Second, use the Leaflet libraries to:
   * display the chosen Mapbox maps.
@@ -32,8 +32,8 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Initial_Map_Sat.png"width="910" height="477"/></p>
 
-#### Challenge
-##### Tectonic Plate Visualization
+## Challenge
+### Tectonic Plate Visualization
 - First, add a second Leaflet layer for the tectonic plate data.
 - Second, retrieve the url for the tectonic plate boarder data.
 - Third, add the lines to denote the boarders of each tectonic plate to the map.
@@ -45,7 +45,7 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Plates_Sat.png"width="910" height="477"/></p>
 
-##### Major Earthquake Visualization
+### Major Earthquake Visualization
 - First, add a third Leaflet layer to show only major earthquakes.
 - Second, retrieve the url for all of the earthquakes that have a magnitude of 4.5 or higher for the last 7 days.
 - Third, add the markers for the major earthquakes to the layer.
@@ -57,14 +57,14 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Major_Sat.png"width="910" height="477"/></p>
 
-##### Additional Map
+### Additional Map
 - The Mapbox light background map was added to the list of background maps that the user can toggle through since it showed the most contrast compared to the other two background maps already included.
 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Light_all.png"width="910" height="477"/></p>
 
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Light_Major.png"width="910" height="477"/></p>
 
-##### Enhancements
+### Enhancements
 1. Change the coding of the colors 
    * The red used for a magnitude of 5 or greater for the all-earthquakes data changed to be used for all earthquakes and major earthquakes with magnitudes of 5 to 6.
    * A darker red used for all earthquakes and major earthquakes with magnitudes of 6 or greater.
