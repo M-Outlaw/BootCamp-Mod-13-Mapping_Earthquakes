@@ -28,9 +28,9 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
     - The legend shows which color represents which magnitude.
   * Add pop-ups to each marker so that when the user clicks on a marker the magnitude and location of the earthquake displays.
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Initial_Map_Street.png"width="910" height="477"/></p>
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Initial_Map_Sat.png"width="910" height="477"/></p>
 
 #### Challenge
 ##### Tectonic Plate Visualization
@@ -41,9 +41,9 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
   * Add the ability to turn the tectonic plate lines on and off.
   * Change the color of the line to bright blue and the line weight to be thicker for readability against the earthquake markers and the different background maps.
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Plates_Street.png"width="910" height="477"/></p>
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Plates_Sat.png"width="910" height="477"/></p>
 
 ##### Major Earthquake Visualization
 - First, add a third Leaflet layer to show only major earthquakes.
@@ -53,16 +53,16 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
 - Finally, stylize the layer.
   * Match the styling used for the all-earthquakes data.
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Major_Street.png"width="910" height="477"/></p>
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Major_Sat.png"width="910" height="477"/></p>
 
 ##### Additional Map
 - The Mapbox light background map was added to the list of background maps that the user can toggle through since it showed the most contrast compared to the other two background maps already included.
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Light_all.png"width="910" height="477"/></p>
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Light_Major.png"width="910" height="477"/></p>
 
 ##### Enhancements
 1. Change the coding of the colors 
@@ -70,8 +70,8 @@ The purpose of this analysis is to help Basil, the head of the earthquake disast
    * A darker red used for all earthquakes and major earthquakes with magnitudes of 6 or greater.
 2. Change the legend to reflect the change in color coding.
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Final_Street.png"width="910" height="477"/></p>
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Final_Sat.png"width="910" height="477"/></p>
 
-<p align="center"><img src=""width="910" height="477"/></p>
+<p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-13-Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Final_Light.png"width="910" height="477"/></p>
